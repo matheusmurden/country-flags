@@ -1,0 +1,22 @@
+{
+  "name": "country-flags",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheusmurden/country-flags.git"
+  },
+  "author": "Matheus Murden <matheus@murden.dev> (https://murden.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/matheusmurden/country-flags/issues"
+  },
+  "homepage": "https://github.com/matheusmurden/country-flags#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
